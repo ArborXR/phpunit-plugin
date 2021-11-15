@@ -3,7 +3,7 @@
     "license": "GPL-3.0-only",
     "require": {
         "graze/guzzle-jsonrpc": "^3.2",
-        "phpunit/phpunit": "^7.5",
+        "phpunit/phpunit": "^9.0",
         "zendframework/zend-hydrator": "^3.0"
     },
     "require-dev": {
